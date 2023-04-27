@@ -1,3 +1,4 @@
+package com.example.test2;
 
 public class User {
     public String name;
